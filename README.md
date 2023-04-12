@@ -1,4 +1,4 @@
-# Raphael Pereira de Mello Ros
+# Raphael P. de Mello Ros
 ### [E-mail](mailto:raphaelpmros@hotmail.com)
 ### [WhatsApp](https://wa.me/5514981471747)
 ### [LinkedIn](https://www.linkedin.com/in/raphaelpmros/)
@@ -84,3 +84,4 @@ Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em em trans
 - Pensamento estratégico
 - Fácil aprendizado
 - Inglês avançado
+- Scrum
